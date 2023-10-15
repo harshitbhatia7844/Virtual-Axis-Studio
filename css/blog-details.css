@@ -1,0 +1,17 @@
+.blog-section{
+    margin: 10%;
+    color: rgb(114, 114, 114);
+} 
+.pic img{
+    height: auto;
+    width: 100%;
+}
+.cal{
+    display: flex;
+    align-items: center;
+    color:orangered;
+}
+.lor h3,.lor h6{
+    color: rgb(88, 88, 88);
+    font-weight: bold;
+}
