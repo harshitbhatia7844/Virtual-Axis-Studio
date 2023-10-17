@@ -5,16 +5,16 @@
     .left{
         display: flex;
         width: 100%;
-        height: 450px;
+        height: 600px;
     }
     .left img{
-       height: 280px;
+       height: auto;
        width: auto;
        margin-top: 3%;
     }
     .dimension{
         width: 50%;
-        padding: 2% 5% 0 1%;
+        padding: 5% 5% 0 5%;
     }
     .dimension h2{
         margin-top: 6%;

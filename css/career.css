@@ -1,0 +1,33 @@
+.career-section {
+    height: auto;
+    width: 100%;
+    padding-inline: 17%;
+    padding-block: 5%;
+}
+.career-section h3{
+    text-align: center;
+    font-weight: bold;
+}
+.career-section h1{
+    font-size: 3.5rem;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(238, 101, 32);
+    color: white;
+}
+.career-section p{
+    padding: 5px;
+}
+.career{
+    height: 200px;
+    width: 100%;
+    border-radius: 20px;
+    margin-block: 20px;
+    padding: 3%;
+    box-shadow: 5px 5px 5px 5px rgb(194, 194, 194);
+}
+.career-detail{
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
